@@ -79,35 +79,66 @@
   "actor": "website-lead-qualifier-contact-finder",
   "gated": false,
   "id": "t005",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-07T06:47:03.255734Z",
+  "result": {
+   "proof": "website-lead-qualifier-contact-finder: 2u/16r",
+   "telemetry": {
+    "u": 2,
+    "r": 16
+   }
+  }
  },
  {
   "type": "log_telemetry",
   "actor": "shopify-competitor-price-monitor",
   "gated": false,
   "id": "t006",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-07T06:47:03.336514Z",
+  "result": {
+   "proof": "shopify-competitor-price-monitor: 2u/7r",
+   "telemetry": {
+    "u": 2,
+    "r": 7
+   }
+  }
  },
  {
   "type": "refine_listing",
   "actor": "website-contact-enrichment",
   "gated": false,
   "id": "t007",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-07T06:47:05.664289Z",
+  "result": {
+   "proof": "refined website-contact-enrichment -> Bulk Email Finder & B2B Contact Enrichment Tool",
+   "url": "https://apify.com/qualifyops/website-contact-enrichment"
+  }
  },
  {
   "type": "refine_listing",
   "actor": "ats-jobs-scraper",
   "gated": false,
   "id": "t008",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-07T06:47:07.255057Z",
+  "result": {
+   "proof": "refined ats-jobs-scraper -> ATS Jobs Scraper - Greenhouse, Lever & Ashby",
+   "url": "https://apify.com/qualifyops/ats-jobs-scraper"
+  }
  },
  {
   "type": "refine_listing",
   "actor": "ats-hiring-signal-finder",
   "gated": false,
   "id": "t009",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-07T06:47:08.717773Z",
+  "result": {
+   "proof": "refined ats-hiring-signal-finder -> Company Hiring Intent Signals from Job Boards",
+   "url": "https://apify.com/qualifyops/ats-hiring-signal-finder"
+  }
  },
  {
   "type": "refine_listing",

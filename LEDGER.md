@@ -3,3 +3,8 @@
 - `2026-07-07T06:44:27.971091Z` **log_telemetry** ats-hiring-signal-finder: 2u/9r
 - `2026-07-07T06:44:28.972465Z` **log_telemetry** ats-hiring-surge-monitor: 2u/8r
 - `2026-07-07T06:44:29.944961Z` **log_telemetry** ats-board-detector: 2u/9r
+- `2026-07-07T06:47:03.255748Z` **log_telemetry** website-lead-qualifier-contact-finder: 2u/16r
+- `2026-07-07T06:47:03.336524Z` **log_telemetry** shopify-competitor-price-monitor: 2u/7r
+- `2026-07-07T06:47:05.664302Z` **refine_listing** refined website-contact-enrichment -> Bulk Email Finder & B2B Contact Enrichment Tool
+- `2026-07-07T06:47:07.255069Z` **refine_listing** refined ats-jobs-scraper -> ATS Jobs Scraper - Greenhouse, Lever & Ashby
+- `2026-07-07T06:47:08.717786Z` **refine_listing** refined ats-hiring-signal-finder -> Company Hiring Intent Signals from Job Boards

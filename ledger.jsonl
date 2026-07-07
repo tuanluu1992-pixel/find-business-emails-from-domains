@@ -3,3 +3,8 @@
 {"type": "log_telemetry", "proof": "ats-hiring-signal-finder: 2u/9r", "telemetry": {"u": 2, "r": 9}, "ts": "2026-07-07T06:44:27.971091Z"}
 {"type": "log_telemetry", "proof": "ats-hiring-surge-monitor: 2u/8r", "telemetry": {"u": 2, "r": 8}, "ts": "2026-07-07T06:44:28.972465Z"}
 {"type": "log_telemetry", "proof": "ats-board-detector: 2u/9r", "telemetry": {"u": 2, "r": 9}, "ts": "2026-07-07T06:44:29.944961Z"}
+{"type": "log_telemetry", "proof": "website-lead-qualifier-contact-finder: 2u/16r", "telemetry": {"u": 2, "r": 16}, "ts": "2026-07-07T06:47:03.255748Z"}
+{"type": "log_telemetry", "proof": "shopify-competitor-price-monitor: 2u/7r", "telemetry": {"u": 2, "r": 7}, "ts": "2026-07-07T06:47:03.336524Z"}
+{"type": "refine_listing", "proof": "refined website-contact-enrichment -> Bulk Email Finder & B2B Contact Enrichment Tool", "url": "https://apify.com/qualifyops/website-contact-enrichment", "ts": "2026-07-07T06:47:05.664302Z"}
+{"type": "refine_listing", "proof": "refined ats-jobs-scraper -> ATS Jobs Scraper - Greenhouse, Lever & Ashby", "url": "https://apify.com/qualifyops/ats-jobs-scraper", "ts": "2026-07-07T06:47:07.255069Z"}
+{"type": "refine_listing", "proof": "refined ats-hiring-signal-finder -> Company Hiring Intent Signals from Job Boards", "url": "https://apify.com/qualifyops/ats-hiring-signal-finder", "ts": "2026-07-07T06:47:08.717786Z"}
