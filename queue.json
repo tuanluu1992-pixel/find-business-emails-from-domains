@@ -1,0 +1,806 @@
+[
+ {
+  "type": "log_telemetry",
+  "actor": "website-contact-enrichment",
+  "gated": false,
+  "id": "t000",
+  "done": true,
+  "done_at": "2026-07-07T06:44:25.797907Z",
+  "result": {
+   "proof": "website-contact-enrichment: 2u/8r",
+   "telemetry": {
+    "u": 2,
+    "r": 8
+   }
+  }
+ },
+ {
+  "type": "log_telemetry",
+  "actor": "ats-jobs-scraper",
+  "gated": false,
+  "id": "t001",
+  "done": true,
+  "done_at": "2026-07-07T06:44:26.778219Z",
+  "result": {
+   "proof": "ats-jobs-scraper: 2u/8r",
+   "telemetry": {
+    "u": 2,
+    "r": 8
+   }
+  }
+ },
+ {
+  "type": "log_telemetry",
+  "actor": "ats-hiring-signal-finder",
+  "gated": false,
+  "id": "t002",
+  "done": true,
+  "done_at": "2026-07-07T06:44:27.971079Z",
+  "result": {
+   "proof": "ats-hiring-signal-finder: 2u/9r",
+   "telemetry": {
+    "u": 2,
+    "r": 9
+   }
+  }
+ },
+ {
+  "type": "log_telemetry",
+  "actor": "ats-hiring-surge-monitor",
+  "gated": false,
+  "id": "t003",
+  "done": true,
+  "done_at": "2026-07-07T06:44:28.972445Z",
+  "result": {
+   "proof": "ats-hiring-surge-monitor: 2u/8r",
+   "telemetry": {
+    "u": 2,
+    "r": 8
+   }
+  }
+ },
+ {
+  "type": "log_telemetry",
+  "actor": "ats-board-detector",
+  "gated": false,
+  "id": "t004",
+  "done": true,
+  "done_at": "2026-07-07T06:44:29.944922Z",
+  "result": {
+   "proof": "ats-board-detector: 2u/9r",
+   "telemetry": {
+    "u": 2,
+    "r": 9
+   }
+  }
+ },
+ {
+  "type": "log_telemetry",
+  "actor": "website-lead-qualifier-contact-finder",
+  "gated": false,
+  "id": "t005",
+  "done": false
+ },
+ {
+  "type": "log_telemetry",
+  "actor": "shopify-competitor-price-monitor",
+  "gated": false,
+  "id": "t006",
+  "done": false
+ },
+ {
+  "type": "refine_listing",
+  "actor": "website-contact-enrichment",
+  "gated": false,
+  "id": "t007",
+  "done": false
+ },
+ {
+  "type": "refine_listing",
+  "actor": "ats-jobs-scraper",
+  "gated": false,
+  "id": "t008",
+  "done": false
+ },
+ {
+  "type": "refine_listing",
+  "actor": "ats-hiring-signal-finder",
+  "gated": false,
+  "id": "t009",
+  "done": false
+ },
+ {
+  "type": "refine_listing",
+  "actor": "ats-hiring-surge-monitor",
+  "gated": false,
+  "id": "t010",
+  "done": false
+ },
+ {
+  "type": "refine_listing",
+  "actor": "ats-board-detector",
+  "gated": false,
+  "id": "t011",
+  "done": false
+ },
+ {
+  "type": "refine_listing",
+  "actor": "website-lead-qualifier-contact-finder",
+  "gated": false,
+  "id": "t012",
+  "done": false
+ },
+ {
+  "type": "refine_listing",
+  "actor": "shopify-competitor-price-monitor",
+  "gated": false,
+  "id": "t013",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "website-contact-enrichment",
+  "topic": "find/verify business emails from domains",
+  "gated": false,
+  "id": "t014",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "ats-jobs-scraper",
+  "topic": "scrape jobs from Greenhouse/Lever/Ashby ATS",
+  "gated": false,
+  "id": "t015",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "ats-hiring-signal-finder",
+  "topic": "find companies hiring right now / hiring intent",
+  "gated": false,
+  "id": "t016",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "ats-hiring-surge-monitor",
+  "topic": "track companies with hiring surges",
+  "gated": false,
+  "id": "t017",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "ats-board-detector",
+  "topic": "detect which ATS a company uses",
+  "gated": false,
+  "id": "t018",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "website-lead-qualifier-contact-finder",
+  "topic": "qualify websites + find decision-maker contacts",
+  "gated": false,
+  "id": "t019",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "shopify-competitor-price-monitor",
+  "topic": "monitor competitor Shopify prices & stock",
+  "gated": false,
+  "id": "t020",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "website-contact-enrichment",
+  "topic": "find/verify business emails from domains",
+  "gated": false,
+  "id": "t021",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "ats-jobs-scraper",
+  "topic": "scrape jobs from Greenhouse/Lever/Ashby ATS",
+  "gated": false,
+  "id": "t022",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "ats-hiring-signal-finder",
+  "topic": "find companies hiring right now / hiring intent",
+  "gated": false,
+  "id": "t023",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "ats-hiring-surge-monitor",
+  "topic": "track companies with hiring surges",
+  "gated": false,
+  "id": "t024",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "ats-board-detector",
+  "topic": "detect which ATS a company uses",
+  "gated": false,
+  "id": "t025",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "website-lead-qualifier-contact-finder",
+  "topic": "qualify websites + find decision-maker contacts",
+  "gated": false,
+  "id": "t026",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "shopify-competitor-price-monitor",
+  "topic": "monitor competitor Shopify prices & stock",
+  "gated": false,
+  "id": "t027",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "website-contact-enrichment",
+  "topic": "find/verify business emails from domains",
+  "gated": false,
+  "id": "t028",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "ats-jobs-scraper",
+  "topic": "scrape jobs from Greenhouse/Lever/Ashby ATS",
+  "gated": false,
+  "id": "t029",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "ats-hiring-signal-finder",
+  "topic": "find companies hiring right now / hiring intent",
+  "gated": false,
+  "id": "t030",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "ats-hiring-surge-monitor",
+  "topic": "track companies with hiring surges",
+  "gated": false,
+  "id": "t031",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "ats-board-detector",
+  "topic": "detect which ATS a company uses",
+  "gated": false,
+  "id": "t032",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "website-lead-qualifier-contact-finder",
+  "topic": "qualify websites + find decision-maker contacts",
+  "gated": false,
+  "id": "t033",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "shopify-competitor-price-monitor",
+  "topic": "monitor competitor Shopify prices & stock",
+  "gated": false,
+  "id": "t034",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "website-contact-enrichment",
+  "topic": "find/verify business emails from domains",
+  "gated": false,
+  "id": "t035",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "ats-jobs-scraper",
+  "topic": "scrape jobs from Greenhouse/Lever/Ashby ATS",
+  "gated": false,
+  "id": "t036",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "ats-hiring-signal-finder",
+  "topic": "find companies hiring right now / hiring intent",
+  "gated": false,
+  "id": "t037",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "ats-hiring-surge-monitor",
+  "topic": "track companies with hiring surges",
+  "gated": false,
+  "id": "t038",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "ats-board-detector",
+  "topic": "detect which ATS a company uses",
+  "gated": false,
+  "id": "t039",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "website-lead-qualifier-contact-finder",
+  "topic": "qualify websites + find decision-maker contacts",
+  "gated": false,
+  "id": "t040",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "shopify-competitor-price-monitor",
+  "topic": "monitor competitor Shopify prices & stock",
+  "gated": false,
+  "id": "t041",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "website-contact-enrichment",
+  "topic": "find/verify business emails from domains",
+  "gated": false,
+  "id": "t042",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "ats-jobs-scraper",
+  "topic": "scrape jobs from Greenhouse/Lever/Ashby ATS",
+  "gated": false,
+  "id": "t043",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "ats-hiring-signal-finder",
+  "topic": "find companies hiring right now / hiring intent",
+  "gated": false,
+  "id": "t044",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "ats-hiring-surge-monitor",
+  "topic": "track companies with hiring surges",
+  "gated": false,
+  "id": "t045",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "ats-board-detector",
+  "topic": "detect which ATS a company uses",
+  "gated": false,
+  "id": "t046",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "website-lead-qualifier-contact-finder",
+  "topic": "qualify websites + find decision-maker contacts",
+  "gated": false,
+  "id": "t047",
+  "done": false
+ },
+ {
+  "type": "publish_page",
+  "actor": "shopify-competitor-price-monitor",
+  "topic": "monitor competitor Shopify prices & stock",
+  "gated": false,
+  "id": "t048",
+  "done": false
+ },
+ {
+  "type": "prepare_proof",
+  "actor": "website-contact-enrichment",
+  "topic": "find/verify business emails from domains",
+  "gated": false,
+  "id": "t049",
+  "done": false
+ },
+ {
+  "type": "prepare_proof",
+  "actor": "ats-jobs-scraper",
+  "topic": "scrape jobs from Greenhouse/Lever/Ashby ATS",
+  "gated": false,
+  "id": "t050",
+  "done": false
+ },
+ {
+  "type": "prepare_proof",
+  "actor": "ats-hiring-signal-finder",
+  "topic": "find companies hiring right now / hiring intent",
+  "gated": false,
+  "id": "t051",
+  "done": false
+ },
+ {
+  "type": "prepare_proof",
+  "actor": "ats-hiring-surge-monitor",
+  "topic": "track companies with hiring surges",
+  "gated": false,
+  "id": "t052",
+  "done": false
+ },
+ {
+  "type": "prepare_proof",
+  "actor": "ats-board-detector",
+  "topic": "detect which ATS a company uses",
+  "gated": false,
+  "id": "t053",
+  "done": false
+ },
+ {
+  "type": "prepare_proof",
+  "actor": "website-lead-qualifier-contact-finder",
+  "topic": "qualify websites + find decision-maker contacts",
+  "gated": false,
+  "id": "t054",
+  "done": false
+ },
+ {
+  "type": "prepare_proof",
+  "actor": "shopify-competitor-price-monitor",
+  "topic": "monitor competitor Shopify prices & stock",
+  "gated": false,
+  "id": "t055",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "website-contact-enrichment",
+  "target": "RapidAPI",
+  "gated": true,
+  "id": "t056",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "ats-jobs-scraper",
+  "target": "RapidAPI",
+  "gated": true,
+  "id": "t057",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "shopify-competitor-price-monitor",
+  "target": "RapidAPI",
+  "gated": true,
+  "id": "t058",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "website-contact-enrichment",
+  "target": "MCP tool registry (glama.ai)",
+  "gated": true,
+  "id": "t059",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "ats-jobs-scraper",
+  "target": "MCP tool registry (glama.ai)",
+  "gated": true,
+  "id": "t060",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "shopify-competitor-price-monitor",
+  "target": "MCP tool registry (glama.ai)",
+  "gated": true,
+  "id": "t061",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "website-contact-enrichment",
+  "target": "MCP registry (smithery.ai)",
+  "gated": true,
+  "id": "t062",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "ats-jobs-scraper",
+  "target": "MCP registry (smithery.ai)",
+  "gated": true,
+  "id": "t063",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "shopify-competitor-price-monitor",
+  "target": "MCP registry (smithery.ai)",
+  "gated": true,
+  "id": "t064",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "website-contact-enrichment",
+  "target": "awesome-web-scraping (GitHub)",
+  "gated": true,
+  "id": "t065",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "ats-jobs-scraper",
+  "target": "awesome-web-scraping (GitHub)",
+  "gated": true,
+  "id": "t066",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "shopify-competitor-price-monitor",
+  "target": "awesome-web-scraping (GitHub)",
+  "gated": true,
+  "id": "t067",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "website-contact-enrichment",
+  "target": "apis.guru",
+  "gated": true,
+  "id": "t068",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "ats-jobs-scraper",
+  "target": "apis.guru",
+  "gated": true,
+  "id": "t069",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "shopify-competitor-price-monitor",
+  "target": "apis.guru",
+  "gated": true,
+  "id": "t070",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "website-contact-enrichment",
+  "target": "publicapis.dev",
+  "gated": true,
+  "id": "t071",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "ats-jobs-scraper",
+  "target": "publicapis.dev",
+  "gated": true,
+  "id": "t072",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "shopify-competitor-price-monitor",
+  "target": "publicapis.dev",
+  "gated": true,
+  "id": "t073",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "website-contact-enrichment",
+  "target": "toolify.ai",
+  "gated": true,
+  "id": "t074",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "ats-jobs-scraper",
+  "target": "toolify.ai",
+  "gated": true,
+  "id": "t075",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "shopify-competitor-price-monitor",
+  "target": "toolify.ai",
+  "gated": true,
+  "id": "t076",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "website-contact-enrichment",
+  "target": "futurepedia",
+  "gated": true,
+  "id": "t077",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "ats-jobs-scraper",
+  "target": "futurepedia",
+  "gated": true,
+  "id": "t078",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "shopify-competitor-price-monitor",
+  "target": "futurepedia",
+  "gated": true,
+  "id": "t079",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "website-contact-enrichment",
+  "target": "theresanaiforthat",
+  "gated": true,
+  "id": "t080",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "ats-jobs-scraper",
+  "target": "theresanaiforthat",
+  "gated": true,
+  "id": "t081",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "shopify-competitor-price-monitor",
+  "target": "theresanaiforthat",
+  "gated": true,
+  "id": "t082",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "website-contact-enrichment",
+  "target": "apilayer marketplace",
+  "gated": true,
+  "id": "t083",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "ats-jobs-scraper",
+  "target": "apilayer marketplace",
+  "gated": true,
+  "id": "t084",
+  "done": false
+ },
+ {
+  "type": "submit_directory",
+  "actor": "shopify-competitor-price-monitor",
+  "target": "apilayer marketplace",
+  "gated": true,
+  "id": "t085",
+  "done": false
+ },
+ {
+  "type": "discover_surface",
+  "gated": false,
+  "id": "t086",
+  "done": false
+ },
+ {
+  "type": "discover_surface",
+  "gated": false,
+  "id": "t087",
+  "done": false
+ },
+ {
+  "type": "discover_surface",
+  "gated": false,
+  "id": "t088",
+  "done": false
+ },
+ {
+  "type": "discover_surface",
+  "gated": false,
+  "id": "t089",
+  "done": false
+ },
+ {
+  "type": "discover_surface",
+  "gated": false,
+  "id": "t090",
+  "done": false
+ },
+ {
+  "type": "discover_surface",
+  "gated": false,
+  "id": "t091",
+  "done": false
+ },
+ {
+  "type": "discover_surface",
+  "gated": false,
+  "id": "t092",
+  "done": false
+ },
+ {
+  "type": "discover_surface",
+  "gated": false,
+  "id": "t093",
+  "done": false
+ },
+ {
+  "type": "discover_surface",
+  "gated": false,
+  "id": "t094",
+  "done": false
+ },
+ {
+  "type": "discover_surface",
+  "gated": false,
+  "id": "t095",
+  "done": false
+ },
+ {
+  "type": "discover_surface",
+  "gated": false,
+  "id": "t096",
+  "done": false
+ },
+ {
+  "type": "discover_surface",
+  "gated": false,
+  "id": "t097",
+  "done": false
+ },
+ {
+  "type": "discover_surface",
+  "gated": false,
+  "id": "t098",
+  "done": false
+ },
+ {
+  "type": "discover_surface",
+  "gated": false,
+  "id": "t099",
+  "done": false
+ },
+ {
+  "type": "discover_surface",
+  "gated": false,
+  "id": "t100",
+  "done": false
+ }
+]

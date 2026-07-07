@@ -1,0 +1,5 @@
+- `2026-07-07T06:44:25.797933Z` **log_telemetry** website-contact-enrichment: 2u/8r
+- `2026-07-07T06:44:26.778237Z` **log_telemetry** ats-jobs-scraper: 2u/8r
+- `2026-07-07T06:44:27.971091Z` **log_telemetry** ats-hiring-signal-finder: 2u/9r
+- `2026-07-07T06:44:28.972465Z` **log_telemetry** ats-hiring-surge-monitor: 2u/8r
+- `2026-07-07T06:44:29.944961Z` **log_telemetry** ats-board-detector: 2u/9r
