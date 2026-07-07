@@ -18,3 +18,45 @@
 - `2026-07-07T15:09:53.677472Z` **publish_page** page pages/monitor-competitor-hiring-activity.md | monitor competitor hiring activity
 - `2026-07-07T15:09:57.041103Z` **publish_page** page pages/identify-ats-from-careers-page.md | identify applicant tracking system from careers page
 - `2026-07-07T15:10:00.737621Z` **publish_page** page pages/qualify-b2b-leads-extract-decision-maker-contacts.md | qualify B2B leads and extract decision maker contact information automatically
+- `2026-07-07T18:14:10.021833Z` **prepare_proof** attempt failed on website-contact-enrichment, rotating  [blocker: [Errno 2] No such file or directory: 'proof/verify-business-emails-from-domains.md']
+- `2026-07-07T18:14:14.317121Z` **prepare_proof** attempt failed on ats-jobs-scraper, rotating  [blocker: [Errno 2] No such file or directory: 'proof/scrape-jobs-greenhouse-lever-ashby.md']
+- `2026-07-07T18:14:18.319538Z` **prepare_proof** attempt failed on ats-hiring-signal-finder, rotating  [blocker: [Errno 2] No such file or directory: 'proof/find-companies-hiring-right-now.md']
+- `2026-07-07T18:14:23.023031Z` **prepare_proof** attempt failed on ats-hiring-surge-monitor, rotating  [blocker: [Errno 2] No such file or directory: 'proof/track-companies-hiring-surges.md']
+- `2026-07-07T18:14:27.575739Z` **prepare_proof** attempt failed on ats-board-detector, rotating  [blocker: [Errno 2] No such file or directory: 'proof/detect-company-ats-system.md']
+- `2026-07-07T18:14:32.151416Z` **prepare_proof** attempt failed on website-lead-qualifier-contact-finder, rotating  [blocker: [Errno 2] No such file or directory: 'proof/qualify-websites-find-decision-maker-contacts.md']
+- `2026-07-07T18:14:37.208996Z` **prepare_proof** attempt failed on shopify-competitor-price-monitor, rotating  [blocker: [Errno 2] No such file or directory: 'proof/monitor-competitor-shopify-prices-stock.md']
+- `2026-07-07T18:14:38.973693Z` **submit_directory** attempt failed on website-contact-enrichment, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/rapidapi-website-contact-enrichment.md']
+- `2026-07-07T18:14:40.599690Z` **submit_directory** attempt failed on ats-jobs-scraper, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/rapidapi-ats-jobs-scraper.md']
+- `2026-07-07T18:14:42.397539Z` **submit_directory** attempt failed on shopify-competitor-price-monitor, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/rapidapi-shopify-competitor-price-monitor.md']
+- `2026-07-07T18:14:44.735947Z` **submit_directory** attempt failed on website-contact-enrichment, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/mcp-tool-registry-glama-ai-website-contact-enrichment.md']
+- `2026-07-07T18:14:46.399237Z` **submit_directory** attempt failed on ats-jobs-scraper, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/mcp-tool-registry-glama-ai-ats-jobs-scraper.md']
+- `2026-07-07T18:14:49.119443Z` **submit_directory** attempt failed on shopify-competitor-price-monitor, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/mcp-tool-registry-glama-ai-shopify-competitor-price-monitor.md']
+- `2026-07-07T18:14:51.077391Z` **submit_directory** attempt failed on website-contact-enrichment, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/mcp-registry-smithery-ai-website-contact-enrichment.md']
+- `2026-07-07T18:14:53.562213Z` **submit_directory** attempt failed on ats-jobs-scraper, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/mcp-registry-smithery-ai-ats-jobs-scraper.md']
+- `2026-07-07T18:14:56.497816Z` **submit_directory** attempt failed on shopify-competitor-price-monitor, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/mcp-registry-smithery-ai-shopify-competitor-price-monitor.md']
+- `2026-07-07T18:14:57.698830Z` **submit_directory** attempt failed on website-contact-enrichment, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/awesome-web-scraping-github-website-contact-enrichment.md']
+- `2026-07-07T18:14:59.372105Z` **submit_directory** attempt failed on ats-jobs-scraper, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/awesome-web-scraping-github-ats-jobs-scraper.md']
+- `2026-07-07T18:15:01.058768Z` **submit_directory** attempt failed on shopify-competitor-price-monitor, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/awesome-web-scraping-github-shopify-competitor-price-monitor.md']
+- `2026-07-07T18:15:03.694724Z` **submit_directory** attempt failed on website-contact-enrichment, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/apis-guru-website-contact-enrichment.md']
+- `2026-07-07T18:15:06.130095Z` **submit_directory** attempt failed on ats-jobs-scraper, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/apis-guru-ats-jobs-scraper.md']
+- `2026-07-07T18:15:08.621871Z` **submit_directory** attempt failed on shopify-competitor-price-monitor, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/apis-guru-shopify-competitor-price-monitor.md']
+- `2026-07-07T18:15:09.957392Z` **submit_directory** attempt failed on website-contact-enrichment, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/publicapis-dev-website-contact-enrichment.md']
+- `2026-07-07T18:15:11.319672Z` **submit_directory** attempt failed on ats-jobs-scraper, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/publicapis-dev-ats-jobs-scraper.md']
+- `2026-07-07T18:15:12.289897Z` **submit_directory** attempt failed on shopify-competitor-price-monitor, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/publicapis-dev-shopify-competitor-price-monitor.md']
+- `2026-07-07T18:15:13.524161Z` **submit_directory** attempt failed on website-contact-enrichment, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/toolify-ai-website-contact-enrichment.md']
+- `2026-07-07T18:15:15.294611Z` **submit_directory** attempt failed on ats-jobs-scraper, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/toolify-ai-ats-jobs-scraper.md']
+- `2026-07-07T18:15:16.423789Z` **submit_directory** attempt failed on shopify-competitor-price-monitor, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/toolify-ai-shopify-competitor-price-monitor.md']
+- `2026-07-07T18:15:17.637976Z` **submit_directory** attempt failed on website-contact-enrichment, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/futurepedia-website-contact-enrichment.md']
+- `2026-07-07T18:15:22.282234Z` **submit_directory** attempt failed on ats-jobs-scraper, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/futurepedia-ats-jobs-scraper.md']
+- `2026-07-07T18:15:23.416434Z` **submit_directory** attempt failed on shopify-competitor-price-monitor, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/futurepedia-shopify-competitor-price-monitor.md']
+- `2026-07-07T18:15:24.538901Z` **submit_directory** attempt failed on website-contact-enrichment, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/theresanaiforthat-website-contact-enrichment.md']
+- `2026-07-07T18:15:25.680847Z` **submit_directory** attempt failed on ats-jobs-scraper, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/theresanaiforthat-ats-jobs-scraper.md']
+- `2026-07-07T18:15:27.117134Z` **submit_directory** attempt failed on shopify-competitor-price-monitor, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/theresanaiforthat-shopify-competitor-price-monitor.md']
+- `2026-07-07T18:15:28.721195Z` **submit_directory** attempt failed on website-contact-enrichment, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/apilayer-marketplace-website-contact-enrichment.md']
+- `2026-07-07T18:15:30.477230Z` **submit_directory** attempt failed on ats-jobs-scraper, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/apilayer-marketplace-ats-jobs-scraper.md']
+- `2026-07-07T18:15:31.444099Z` **submit_directory** attempt failed on shopify-competitor-price-monitor, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/apilayer-marketplace-shopify-competitor-price-monitor.md']
+- `2026-07-07T18:15:33.044563Z` **discover_surface** discovered+queued surface: ProductHunt
+- `2026-07-07T18:15:34.378077Z` **discover_surface** discovered+queued surface: ProductHunt
+- `2026-07-07T18:15:35.692124Z` **discover_surface** discovered+queued surface: ProductHunt
+- `2026-07-07T18:15:37.031364Z` **discover_surface** discovered+queued surface: ProductHunt
+- `2026-07-07T18:15:38.333149Z` **discover_surface** discovered+queued surface: ProductHunt

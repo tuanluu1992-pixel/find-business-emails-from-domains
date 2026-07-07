@@ -504,7 +504,9 @@
   "topic": "find/verify business emails from domains",
   "gated": false,
   "id": "t049",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'proof/verify-business-emails-from-domains.md'"
  },
  {
   "type": "prepare_proof",
@@ -512,7 +514,9 @@
   "topic": "scrape jobs from Greenhouse/Lever/Ashby ATS",
   "gated": false,
   "id": "t050",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'proof/scrape-jobs-greenhouse-lever-ashby.md'"
  },
  {
   "type": "prepare_proof",
@@ -520,7 +524,9 @@
   "topic": "find companies hiring right now / hiring intent",
   "gated": false,
   "id": "t051",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'proof/find-companies-hiring-right-now.md'"
  },
  {
   "type": "prepare_proof",
@@ -528,7 +534,9 @@
   "topic": "track companies with hiring surges",
   "gated": false,
   "id": "t052",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'proof/track-companies-hiring-surges.md'"
  },
  {
   "type": "prepare_proof",
@@ -536,7 +544,9 @@
   "topic": "detect which ATS a company uses",
   "gated": false,
   "id": "t053",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'proof/detect-company-ats-system.md'"
  },
  {
   "type": "prepare_proof",
@@ -544,7 +554,9 @@
   "topic": "qualify websites + find decision-maker contacts",
   "gated": false,
   "id": "t054",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'proof/qualify-websites-find-decision-maker-contacts.md'"
  },
  {
   "type": "prepare_proof",
@@ -552,7 +564,9 @@
   "topic": "monitor competitor Shopify prices & stock",
   "gated": false,
   "id": "t055",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'proof/monitor-competitor-shopify-prices-stock.md'"
  },
  {
   "type": "submit_directory",
@@ -560,7 +574,9 @@
   "target": "RapidAPI",
   "gated": true,
   "id": "t056",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/rapidapi-website-contact-enrichment.md'"
  },
  {
   "type": "submit_directory",
@@ -568,7 +584,9 @@
   "target": "RapidAPI",
   "gated": true,
   "id": "t057",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/rapidapi-ats-jobs-scraper.md'"
  },
  {
   "type": "submit_directory",
@@ -576,7 +594,9 @@
   "target": "RapidAPI",
   "gated": true,
   "id": "t058",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/rapidapi-shopify-competitor-price-monitor.md'"
  },
  {
   "type": "submit_directory",
@@ -584,7 +604,9 @@
   "target": "MCP tool registry (glama.ai)",
   "gated": true,
   "id": "t059",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/mcp-tool-registry-glama-ai-website-contact-enrichment.md'"
  },
  {
   "type": "submit_directory",
@@ -592,7 +614,9 @@
   "target": "MCP tool registry (glama.ai)",
   "gated": true,
   "id": "t060",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/mcp-tool-registry-glama-ai-ats-jobs-scraper.md'"
  },
  {
   "type": "submit_directory",
@@ -600,7 +624,9 @@
   "target": "MCP tool registry (glama.ai)",
   "gated": true,
   "id": "t061",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/mcp-tool-registry-glama-ai-shopify-competitor-price-monitor.md'"
  },
  {
   "type": "submit_directory",
@@ -608,7 +634,9 @@
   "target": "MCP registry (smithery.ai)",
   "gated": true,
   "id": "t062",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/mcp-registry-smithery-ai-website-contact-enrichment.md'"
  },
  {
   "type": "submit_directory",
@@ -616,7 +644,9 @@
   "target": "MCP registry (smithery.ai)",
   "gated": true,
   "id": "t063",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/mcp-registry-smithery-ai-ats-jobs-scraper.md'"
  },
  {
   "type": "submit_directory",
@@ -624,7 +654,9 @@
   "target": "MCP registry (smithery.ai)",
   "gated": true,
   "id": "t064",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/mcp-registry-smithery-ai-shopify-competitor-price-monitor.md'"
  },
  {
   "type": "submit_directory",
@@ -632,7 +664,9 @@
   "target": "awesome-web-scraping (GitHub)",
   "gated": true,
   "id": "t065",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/awesome-web-scraping-github-website-contact-enrichment.md'"
  },
  {
   "type": "submit_directory",
@@ -640,7 +674,9 @@
   "target": "awesome-web-scraping (GitHub)",
   "gated": true,
   "id": "t066",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/awesome-web-scraping-github-ats-jobs-scraper.md'"
  },
  {
   "type": "submit_directory",
@@ -648,7 +684,9 @@
   "target": "awesome-web-scraping (GitHub)",
   "gated": true,
   "id": "t067",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/awesome-web-scraping-github-shopify-competitor-price-monitor.md'"
  },
  {
   "type": "submit_directory",
@@ -656,7 +694,9 @@
   "target": "apis.guru",
   "gated": true,
   "id": "t068",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/apis-guru-website-contact-enrichment.md'"
  },
  {
   "type": "submit_directory",
@@ -664,7 +704,9 @@
   "target": "apis.guru",
   "gated": true,
   "id": "t069",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/apis-guru-ats-jobs-scraper.md'"
  },
  {
   "type": "submit_directory",
@@ -672,7 +714,9 @@
   "target": "apis.guru",
   "gated": true,
   "id": "t070",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/apis-guru-shopify-competitor-price-monitor.md'"
  },
  {
   "type": "submit_directory",
@@ -680,7 +724,9 @@
   "target": "publicapis.dev",
   "gated": true,
   "id": "t071",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/publicapis-dev-website-contact-enrichment.md'"
  },
  {
   "type": "submit_directory",
@@ -688,7 +734,9 @@
   "target": "publicapis.dev",
   "gated": true,
   "id": "t072",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/publicapis-dev-ats-jobs-scraper.md'"
  },
  {
   "type": "submit_directory",
@@ -696,7 +744,9 @@
   "target": "publicapis.dev",
   "gated": true,
   "id": "t073",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/publicapis-dev-shopify-competitor-price-monitor.md'"
  },
  {
   "type": "submit_directory",
@@ -704,7 +754,9 @@
   "target": "toolify.ai",
   "gated": true,
   "id": "t074",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/toolify-ai-website-contact-enrichment.md'"
  },
  {
   "type": "submit_directory",
@@ -712,7 +764,9 @@
   "target": "toolify.ai",
   "gated": true,
   "id": "t075",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/toolify-ai-ats-jobs-scraper.md'"
  },
  {
   "type": "submit_directory",
@@ -720,7 +774,9 @@
   "target": "toolify.ai",
   "gated": true,
   "id": "t076",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/toolify-ai-shopify-competitor-price-monitor.md'"
  },
  {
   "type": "submit_directory",
@@ -728,7 +784,9 @@
   "target": "futurepedia",
   "gated": true,
   "id": "t077",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/futurepedia-website-contact-enrichment.md'"
  },
  {
   "type": "submit_directory",
@@ -736,7 +794,9 @@
   "target": "futurepedia",
   "gated": true,
   "id": "t078",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/futurepedia-ats-jobs-scraper.md'"
  },
  {
   "type": "submit_directory",
@@ -744,7 +804,9 @@
   "target": "futurepedia",
   "gated": true,
   "id": "t079",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/futurepedia-shopify-competitor-price-monitor.md'"
  },
  {
   "type": "submit_directory",
@@ -752,7 +814,9 @@
   "target": "theresanaiforthat",
   "gated": true,
   "id": "t080",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/theresanaiforthat-website-contact-enrichment.md'"
  },
  {
   "type": "submit_directory",
@@ -760,7 +824,9 @@
   "target": "theresanaiforthat",
   "gated": true,
   "id": "t081",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/theresanaiforthat-ats-jobs-scraper.md'"
  },
  {
   "type": "submit_directory",
@@ -768,7 +834,9 @@
   "target": "theresanaiforthat",
   "gated": true,
   "id": "t082",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/theresanaiforthat-shopify-competitor-price-monitor.md'"
  },
  {
   "type": "submit_directory",
@@ -776,7 +844,9 @@
   "target": "apilayer marketplace",
   "gated": true,
   "id": "t083",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/apilayer-marketplace-website-contact-enrichment.md'"
  },
  {
   "type": "submit_directory",
@@ -784,7 +854,9 @@
   "target": "apilayer marketplace",
   "gated": true,
   "id": "t084",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/apilayer-marketplace-ats-jobs-scraper.md'"
  },
  {
   "type": "submit_directory",
@@ -792,37 +864,59 @@
   "target": "apilayer marketplace",
   "gated": true,
   "id": "t085",
-  "done": false
+  "done": false,
+  "attempts": 1,
+  "last_error": "[Errno 2] No such file or directory: 'submissions/apilayer-marketplace-shopify-competitor-price-monitor.md'"
  },
  {
   "type": "discover_surface",
   "gated": false,
   "id": "t086",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-07T18:15:33.044550Z",
+  "result": {
+   "proof": "discovered+queued surface: ProductHunt"
+  }
  },
  {
   "type": "discover_surface",
   "gated": false,
   "id": "t087",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-07T18:15:34.378065Z",
+  "result": {
+   "proof": "discovered+queued surface: ProductHunt"
+  }
  },
  {
   "type": "discover_surface",
   "gated": false,
   "id": "t088",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-07T18:15:35.692111Z",
+  "result": {
+   "proof": "discovered+queued surface: ProductHunt"
+  }
  },
  {
   "type": "discover_surface",
   "gated": false,
   "id": "t089",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-07T18:15:37.031352Z",
+  "result": {
+   "proof": "discovered+queued surface: ProductHunt"
+  }
  },
  {
   "type": "discover_surface",
   "gated": false,
   "id": "t090",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-07T18:15:38.333136Z",
+  "result": {
+   "proof": "discovered+queued surface: ProductHunt"
+  }
  },
  {
   "type": "discover_surface",
