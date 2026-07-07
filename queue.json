@@ -207,7 +207,12 @@
   "topic": "scrape jobs from Greenhouse/Lever/Ashby ATS",
   "gated": false,
   "id": "t015",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-07T15:09:44.984853Z",
+  "result": {
+   "proof": "page pages/scrape-greenhouse-job-listings.md | scrape job listings from Greenhouse ATS",
+   "url": "github pages/scrape-greenhouse-job-listings.md"
+  }
  },
  {
   "type": "publish_page",
@@ -215,7 +220,12 @@
   "topic": "find companies hiring right now / hiring intent",
   "gated": false,
   "id": "t016",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-07T15:09:47.887157Z",
+  "result": {
+   "proof": "page pages/find-companies-actively-hiring.md | find companies actively hiring right now",
+   "url": "github pages/find-companies-actively-hiring.md"
+  }
  },
  {
   "type": "publish_page",
@@ -223,7 +233,12 @@
   "topic": "track companies with hiring surges",
   "gated": false,
   "id": "t017",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-07T15:09:53.677462Z",
+  "result": {
+   "proof": "page pages/monitor-competitor-hiring-activity.md | monitor competitor hiring activity",
+   "url": "github pages/monitor-competitor-hiring-activity.md"
+  }
  },
  {
   "type": "publish_page",
@@ -231,7 +246,12 @@
   "topic": "detect which ATS a company uses",
   "gated": false,
   "id": "t018",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-07T15:09:57.041093Z",
+  "result": {
+   "proof": "page pages/identify-ats-from-careers-page.md | identify applicant tracking system from careers page",
+   "url": "github pages/identify-ats-from-careers-page.md"
+  }
  },
  {
   "type": "publish_page",
@@ -239,7 +259,12 @@
   "topic": "qualify websites + find decision-maker contacts",
   "gated": false,
   "id": "t019",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-07T15:10:00.737611Z",
+  "result": {
+   "proof": "page pages/qualify-b2b-leads-extract-decision-maker-contacts.md | qualify B2B leads and extract decision maker contact information automatically",
+   "url": "github pages/qualify-b2b-leads-extract-decision-maker-contacts.md"
+  }
  },
  {
   "type": "publish_page",

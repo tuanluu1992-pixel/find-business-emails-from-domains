@@ -13,3 +13,8 @@
 - `2026-07-07T11:17:43.316554Z` **refine_listing** refined website-lead-qualifier-contact-finder -> B2B Email & Contact Scraper - Lead Qualifier
 - `2026-07-07T11:17:45.064028Z` **refine_listing** refined shopify-competitor-price-monitor -> Shopify Competitor Price Tracker - Monitor Rival Prices
 - `2026-07-07T11:17:47.899599Z` **publish_page** page pages/verify-business-emails-domain.md | verify business email addresses from domain
+- `2026-07-07T15:09:44.984864Z` **publish_page** page pages/scrape-greenhouse-job-listings.md | scrape job listings from Greenhouse ATS
+- `2026-07-07T15:09:47.887186Z` **publish_page** page pages/find-companies-actively-hiring.md | find companies actively hiring right now
+- `2026-07-07T15:09:53.677472Z` **publish_page** page pages/monitor-competitor-hiring-activity.md | monitor competitor hiring activity
+- `2026-07-07T15:09:57.041103Z` **publish_page** page pages/identify-ats-from-careers-page.md | identify applicant tracking system from careers page
+- `2026-07-07T15:10:00.737621Z` **publish_page** page pages/qualify-b2b-leads-extract-decision-maker-contacts.md | qualify B2B leads and extract decision maker contact information automatically
