@@ -1,0 +1,22 @@
+name: foundry-distribute
+on:
+  schedule:
+    - cron: '41 9 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  distribute:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.11' }
+      - env: { ANTHROPIC_API_KEY: "${{ secrets.ANTHROPIC_API_KEY }}" }
+        run: python agent.py
+      - run: |
+          git config user.name foundry-bot
+          git config user.email noreply@anthropic.com
+          git add pages
+          git commit -m "distribute: new buyer-intent search page [skip ci]" || echo "no change"
+          git push || echo "nothing"
