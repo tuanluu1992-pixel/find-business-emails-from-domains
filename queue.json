@@ -145,28 +145,48 @@
   "actor": "ats-hiring-surge-monitor",
   "gated": false,
   "id": "t010",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-07T11:17:39.413914Z",
+  "result": {
+   "proof": "refined ats-hiring-surge-monitor -> Job Postings Monitor - Hiring Surge Detection Tool",
+   "url": "https://apify.com/qualifyops/ats-hiring-surge-monitor"
+  }
  },
  {
   "type": "refine_listing",
   "actor": "ats-board-detector",
   "gated": false,
   "id": "t011",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-07T11:17:40.987245Z",
+  "result": {
+   "proof": "refined ats-board-detector -> Careers Page Finder & ATS Detector - Board URLs",
+   "url": "https://apify.com/qualifyops/ats-board-detector"
+  }
  },
  {
   "type": "refine_listing",
   "actor": "website-lead-qualifier-contact-finder",
   "gated": false,
   "id": "t012",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-07T11:17:43.316544Z",
+  "result": {
+   "proof": "refined website-lead-qualifier-contact-finder -> B2B Email & Contact Scraper - Lead Qualifier",
+   "url": "https://apify.com/qualifyops/website-lead-qualifier-contact-finder"
+  }
  },
  {
   "type": "refine_listing",
   "actor": "shopify-competitor-price-monitor",
   "gated": false,
   "id": "t013",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-07T11:17:45.064019Z",
+  "result": {
+   "proof": "refined shopify-competitor-price-monitor -> Shopify Competitor Price Tracker - Monitor Rival Prices",
+   "url": "https://apify.com/qualifyops/shopify-competitor-price-monitor"
+  }
  },
  {
   "type": "publish_page",
@@ -174,7 +194,12 @@
   "topic": "find/verify business emails from domains",
   "gated": false,
   "id": "t014",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-07T11:17:47.899590Z",
+  "result": {
+   "proof": "page pages/verify-business-emails-domain.md | verify business email addresses from domain",
+   "url": "github pages/verify-business-emails-domain.md"
+  }
  },
  {
   "type": "publish_page",

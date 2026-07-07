@@ -8,3 +8,8 @@
 - `2026-07-07T06:47:05.664302Z` **refine_listing** refined website-contact-enrichment -> Bulk Email Finder & B2B Contact Enrichment Tool
 - `2026-07-07T06:47:07.255069Z` **refine_listing** refined ats-jobs-scraper -> ATS Jobs Scraper - Greenhouse, Lever & Ashby
 - `2026-07-07T06:47:08.717786Z` **refine_listing** refined ats-hiring-signal-finder -> Company Hiring Intent Signals from Job Boards
+- `2026-07-07T11:17:39.413925Z` **refine_listing** refined ats-hiring-surge-monitor -> Job Postings Monitor - Hiring Surge Detection Tool
+- `2026-07-07T11:17:40.987256Z` **refine_listing** refined ats-board-detector -> Careers Page Finder & ATS Detector - Board URLs
+- `2026-07-07T11:17:43.316554Z` **refine_listing** refined website-lead-qualifier-contact-finder -> B2B Email & Contact Scraper - Lead Qualifier
+- `2026-07-07T11:17:45.064028Z` **refine_listing** refined shopify-competitor-price-monitor -> Shopify Competitor Price Tracker - Monitor Rival Prices
+- `2026-07-07T11:17:47.899599Z` **publish_page** page pages/verify-business-emails-domain.md | verify business email addresses from domain
