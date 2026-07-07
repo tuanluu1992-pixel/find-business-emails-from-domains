@@ -21,6 +21,7 @@ body=json.dumps({"model":MODEL,"max_tokens":1200,"system":sysp,"messages":[{"rol
 req=urllib.request.Request("https://api.anthropic.com/v1/messages",data=body,
  headers={"x-api-key":KEY,"anthropic-version":"2023-06-01","content-type":"application/json"})
 o=json.loads(re.search(r"\{.*\}",json.load(urllib.request.urlopen(req,timeout=90))["content"][0]["text"],re.S).group(0))
+os.makedirs("pages",exist_ok=True)
 slug=re.sub(r"[^a-z0-9]+","-",o["slug"].lower()).strip("-")[:60]
 open(f"pages/{slug}.md","w").write(f"<!-- keyword: {o['keyword']} -->\n{o['markdown'].strip()}\n")
 print("GENERATED:",f"pages/{slug}.md","|",o["keyword"])
