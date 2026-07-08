@@ -144,3 +144,8 @@
 {"type": "discover_surface", "proof": "discovered+queued surface: Product Hunt", "ts": "2026-07-07T23:13:23.655360Z"}
 {"type": "discover_surface", "proof": "discovered+queued surface: Product Hunt", "ts": "2026-07-07T23:13:24.995754Z"}
 {"type": "discover_surface", "proof": "discovered+queued surface: Product Hunt", "ts": "2026-07-07T23:13:26.584337Z"}
+{"type": "publish_page", "proof": "page pages/monitor-competitor-shopify-prices-stock.md | monitor competitor Shopify prices and stock levels", "url": "github pages/monitor-competitor-shopify-prices-stock.md", "ts": "2026-07-08T03:38:26.998400Z"}
+{"type": "publish_page", "proof": "page pages/find-business-emails-by-domain.md | find business email addresses by domain name", "url": "github pages/find-business-emails-by-domain.md", "ts": "2026-07-08T03:38:30.213273Z"}
+{"type": "publish_page", "proof": "page pages/scrape-lever-ats-job-openings.md | scrape job openings from Lever ATS automatically", "url": "github pages/scrape-lever-ats-job-openings.md", "ts": "2026-07-08T03:38:32.814513Z"}
+{"type": "publish_page", "proof": "page pages/identify-hiring-intent-signals-company-websites.md | identify hiring intent signals from company websites", "url": "github pages/identify-hiring-intent-signals-company-websites.md", "ts": "2026-07-08T03:38:36.000023Z"}
+{"type": "publish_page", "proof": "page pages/track-companies-hiring-surges.md | track companies with hiring surges", "url": "github pages/track-companies-hiring-surges.md", "ts": "2026-07-08T03:38:39.285869Z"}

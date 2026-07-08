@@ -272,7 +272,12 @@
   "topic": "monitor competitor Shopify prices & stock",
   "gated": false,
   "id": "t020",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-08T03:38:26.998391Z",
+  "result": {
+   "proof": "page pages/monitor-competitor-shopify-prices-stock.md | monitor competitor Shopify prices and stock levels",
+   "url": "github pages/monitor-competitor-shopify-prices-stock.md"
+  }
  },
  {
   "type": "publish_page",
@@ -280,7 +285,12 @@
   "topic": "find/verify business emails from domains",
   "gated": false,
   "id": "t021",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-08T03:38:30.213265Z",
+  "result": {
+   "proof": "page pages/find-business-emails-by-domain.md | find business email addresses by domain name",
+   "url": "github pages/find-business-emails-by-domain.md"
+  }
  },
  {
   "type": "publish_page",
@@ -288,7 +298,12 @@
   "topic": "scrape jobs from Greenhouse/Lever/Ashby ATS",
   "gated": false,
   "id": "t022",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-08T03:38:32.814506Z",
+  "result": {
+   "proof": "page pages/scrape-lever-ats-job-openings.md | scrape job openings from Lever ATS automatically",
+   "url": "github pages/scrape-lever-ats-job-openings.md"
+  }
  },
  {
   "type": "publish_page",
@@ -296,7 +311,12 @@
   "topic": "find companies hiring right now / hiring intent",
   "gated": false,
   "id": "t023",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-08T03:38:36.000013Z",
+  "result": {
+   "proof": "page pages/identify-hiring-intent-signals-company-websites.md | identify hiring intent signals from company websites",
+   "url": "github pages/identify-hiring-intent-signals-company-websites.md"
+  }
  },
  {
   "type": "publish_page",
@@ -304,7 +324,12 @@
   "topic": "track companies with hiring surges",
   "gated": false,
   "id": "t024",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-08T03:38:39.285834Z",
+  "result": {
+   "proof": "page pages/track-companies-hiring-surges.md | track companies with hiring surges",
+   "url": "github pages/track-companies-hiring-surges.md"
+  }
  },
  {
   "type": "publish_page",

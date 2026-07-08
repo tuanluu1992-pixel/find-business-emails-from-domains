@@ -144,3 +144,8 @@
 - `2026-07-07T23:13:23.655360Z` **discover_surface** discovered+queued surface: Product Hunt
 - `2026-07-07T23:13:24.995754Z` **discover_surface** discovered+queued surface: Product Hunt
 - `2026-07-07T23:13:26.584337Z` **discover_surface** discovered+queued surface: Product Hunt
+- `2026-07-08T03:38:26.998400Z` **publish_page** page pages/monitor-competitor-shopify-prices-stock.md | monitor competitor Shopify prices and stock levels
+- `2026-07-08T03:38:30.213273Z` **publish_page** page pages/find-business-emails-by-domain.md | find business email addresses by domain name
+- `2026-07-08T03:38:32.814513Z` **publish_page** page pages/scrape-lever-ats-job-openings.md | scrape job openings from Lever ATS automatically
+- `2026-07-08T03:38:36.000023Z` **publish_page** page pages/identify-hiring-intent-signals-company-websites.md | identify hiring intent signals from company websites
+- `2026-07-08T03:38:39.285869Z` **publish_page** page pages/track-companies-hiring-surges.md | track companies with hiring surges
