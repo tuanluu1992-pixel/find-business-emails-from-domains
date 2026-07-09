@@ -350,7 +350,12 @@
   "topic": "qualify websites + find decision-maker contacts",
   "gated": false,
   "id": "t026",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-09T04:08:52.714224Z",
+  "result": {
+   "proof": "page pages/identify-decision-makers-target-companies.md | identify decision makers at target companies automatically",
+   "url": "github pages/identify-decision-makers-target-companies.md"
+  }
  },
  {
   "type": "publish_page",
@@ -358,7 +363,12 @@
   "topic": "monitor competitor Shopify prices & stock",
   "gated": false,
   "id": "t027",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-09T04:08:55.477759Z",
+  "result": {
+   "proof": "page pages/track-shopify-competitor-inventory-changes.md | track Shopify competitor inventory changes automatically",
+   "url": "github pages/track-shopify-competitor-inventory-changes.md"
+  }
  },
  {
   "type": "publish_page",
@@ -366,7 +376,12 @@
   "topic": "find/verify business emails from domains",
   "gated": false,
   "id": "t028",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-09T04:08:59.566598Z",
+  "result": {
+   "proof": "page pages/validate-business-email-addresses-domain-verification.md | validate business email addresses for domain verification",
+   "url": "github pages/validate-business-email-addresses-domain-verification.md"
+  }
  },
  {
   "type": "publish_page",
@@ -374,7 +389,12 @@
   "topic": "scrape jobs from Greenhouse/Lever/Ashby ATS",
   "gated": false,
   "id": "t029",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-09T04:09:02.791265Z",
+  "result": {
+   "proof": "page pages/scrape-ashby-ats-jobs-automatically.md | scrape jobs from Ashby ATS careers page automatically",
+   "url": "github pages/scrape-ashby-ats-jobs-automatically.md"
+  }
  },
  {
   "type": "publish_page",
@@ -382,7 +402,12 @@
   "topic": "find companies hiring right now / hiring intent",
   "gated": false,
   "id": "t030",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-09T04:09:06.945501Z",
+  "result": {
+   "proof": "page pages/real-time-hiring-signals-sales-prospecting.md | real-time hiring signal detection for sales prospecting",
+   "url": "github pages/real-time-hiring-signals-sales-prospecting.md"
+  }
  },
  {
   "type": "publish_page",

@@ -409,3 +409,8 @@
 - `2026-07-08T23:21:44.382038Z` **submit_directory** attempt failed on website-contact-enrichment, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/apilayer-marketplace-website-contact-enrichment.md']
 - `2026-07-08T23:21:46.048071Z` **submit_directory** attempt failed on ats-jobs-scraper, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/apilayer-marketplace-ats-jobs-scraper.md']
 - `2026-07-08T23:21:47.937172Z` **submit_directory** attempt failed on shopify-competitor-price-monitor, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/apilayer-marketplace-shopify-competitor-price-monitor.md']
+- `2026-07-09T04:08:52.714233Z` **publish_page** page pages/identify-decision-makers-target-companies.md | identify decision makers at target companies automatically
+- `2026-07-09T04:08:55.477768Z` **publish_page** page pages/track-shopify-competitor-inventory-changes.md | track Shopify competitor inventory changes automatically
+- `2026-07-09T04:08:59.566611Z` **publish_page** page pages/validate-business-email-addresses-domain-verification.md | validate business email addresses for domain verification
+- `2026-07-09T04:09:02.791273Z` **publish_page** page pages/scrape-ashby-ats-jobs-automatically.md | scrape jobs from Ashby ATS careers page automatically
+- `2026-07-09T04:09:06.945511Z` **publish_page** page pages/real-time-hiring-signals-sales-prospecting.md | real-time hiring signal detection for sales prospecting
