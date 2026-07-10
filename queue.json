@@ -428,7 +428,12 @@
   "topic": "detect which ATS a company uses",
   "gated": false,
   "id": "t032",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-10T04:08:22.143171Z",
+  "result": {
+   "proof": "page pages/detect-ats-system-used-by-company.md | detect which ATS a company uses",
+   "url": "github pages/detect-ats-system-used-by-company.md"
+  }
  },
  {
   "type": "publish_page",
@@ -436,7 +441,12 @@
   "topic": "qualify websites + find decision-maker contacts",
   "gated": false,
   "id": "t033",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-10T04:08:25.308300Z",
+  "result": {
+   "proof": "page pages/qualify-websites-find-decision-maker-contacts.md | qualify websites and find decision-maker contacts automatically",
+   "url": "github pages/qualify-websites-find-decision-maker-contacts.md"
+  }
  },
  {
   "type": "publish_page",
@@ -444,7 +454,12 @@
   "topic": "monitor competitor Shopify prices & stock",
   "gated": false,
   "id": "t034",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-10T04:08:33.026919Z",
+  "result": {
+   "proof": "page pages/shopify-competitor-price-stock-monitor.md | monitor competitor Shopify prices & stock levels in real-time",
+   "url": "github pages/shopify-competitor-price-stock-monitor.md"
+  }
  },
  {
   "type": "publish_page",
@@ -452,7 +467,12 @@
   "topic": "find/verify business emails from domains",
   "gated": false,
   "id": "t035",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-10T04:08:36.363037Z",
+  "result": {
+   "proof": "page pages/enrich-business-contacts-website-intelligence.md | enrich business contact data with website intelligence",
+   "url": "github pages/enrich-business-contacts-website-intelligence.md"
+  }
  },
  {
   "type": "publish_page",
@@ -460,7 +480,12 @@
   "topic": "scrape jobs from Greenhouse/Lever/Ashby ATS",
   "gated": false,
   "id": "t036",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-10T04:08:39.376749Z",
+  "result": {
+   "proof": "page pages/scrape-greenhouse-lever-ashby-jobs-simultaneously.md | scrape multiple job boards from Greenhouse Lever and Ashby simultaneously",
+   "url": "github pages/scrape-greenhouse-lever-ashby-jobs-simultaneously.md"
+  }
  },
  {
   "type": "publish_page",

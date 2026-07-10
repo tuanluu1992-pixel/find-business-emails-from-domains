@@ -600,3 +600,8 @@
 - `2026-07-09T23:25:05.977996Z` **submit_directory** attempt failed on website-contact-enrichment, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/apilayer-marketplace-website-contact-enrichment.md']
 - `2026-07-09T23:25:07.383085Z` **submit_directory** attempt failed on ats-jobs-scraper, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/apilayer-marketplace-ats-jobs-scraper.md']
 - `2026-07-09T23:25:09.080939Z` **submit_directory** attempt failed on shopify-competitor-price-monitor, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/apilayer-marketplace-shopify-competitor-price-monitor.md']
+- `2026-07-10T04:08:22.143182Z` **publish_page** page pages/detect-ats-system-used-by-company.md | detect which ATS a company uses
+- `2026-07-10T04:08:25.308312Z` **publish_page** page pages/qualify-websites-find-decision-maker-contacts.md | qualify websites and find decision-maker contacts automatically
+- `2026-07-10T04:08:33.026930Z` **publish_page** page pages/shopify-competitor-price-stock-monitor.md | monitor competitor Shopify prices & stock levels in real-time
+- `2026-07-10T04:08:36.363052Z` **publish_page** page pages/enrich-business-contacts-website-intelligence.md | enrich business contact data with website intelligence
+- `2026-07-10T04:08:39.376762Z` **publish_page** page pages/scrape-greenhouse-lever-ashby-jobs-simultaneously.md | scrape multiple job boards from Greenhouse Lever and Ashby simultaneously
