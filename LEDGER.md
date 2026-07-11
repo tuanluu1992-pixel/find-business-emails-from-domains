@@ -828,3 +828,8 @@
 - `2026-07-10T23:11:50.069681Z` **submit_directory** attempt failed on website-contact-enrichment, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/apilayer-marketplace-website-contact-enrichment.md']
 - `2026-07-10T23:11:52.195454Z` **submit_directory** attempt failed on ats-jobs-scraper, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/apilayer-marketplace-ats-jobs-scraper.md']
 - `2026-07-10T23:11:58.214940Z` **submit_directory** attempt failed on shopify-competitor-price-monitor, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/apilayer-marketplace-shopify-competitor-price-monitor.md']
+- `2026-07-11T03:35:35.039065Z` **publish_page** page pages/monitor-companies-hiring-velocity-multiple-openings.md | monitor companies with multiple job openings and hiring velocity
+- `2026-07-11T03:35:38.110704Z` **publish_page** page pages/detect-ats-software-company-careers-page.md | detect ATS software used by companies automatically
+- `2026-07-11T03:35:42.058582Z` **publish_page** page pages/enrich-prospect-lists-website-qualification-decision-maker-i.md | enrich prospect lists with website qualification and decision-maker intelligence
+- `2026-07-11T03:35:44.922654Z` **publish_page** page pages/shopify-competitor-price-stock-monitor.md | monitor Shopify competitor prices stock levels real-time
+- `2026-07-11T03:35:48.201170Z` **publish_page** page pages/enrich-business-contacts-verified-emails-domain.md | enrich business contact data with verified emails and domain intelligence

@@ -506,7 +506,12 @@
   "topic": "track companies with hiring surges",
   "gated": false,
   "id": "t038",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-11T03:35:35.039034Z",
+  "result": {
+   "proof": "page pages/monitor-companies-hiring-velocity-multiple-openings.md | monitor companies with multiple job openings and hiring velocity",
+   "url": "github pages/monitor-companies-hiring-velocity-multiple-openings.md"
+  }
  },
  {
   "type": "publish_page",
@@ -514,7 +519,12 @@
   "topic": "detect which ATS a company uses",
   "gated": false,
   "id": "t039",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-11T03:35:38.110694Z",
+  "result": {
+   "proof": "page pages/detect-ats-software-company-careers-page.md | detect ATS software used by companies automatically",
+   "url": "github pages/detect-ats-software-company-careers-page.md"
+  }
  },
  {
   "type": "publish_page",
@@ -522,7 +532,12 @@
   "topic": "qualify websites + find decision-maker contacts",
   "gated": false,
   "id": "t040",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-11T03:35:42.058572Z",
+  "result": {
+   "proof": "page pages/enrich-prospect-lists-website-qualification-decision-maker-i.md | enrich prospect lists with website qualification and decision-maker intelligence",
+   "url": "github pages/enrich-prospect-lists-website-qualification-decision-maker-i.md"
+  }
  },
  {
   "type": "publish_page",
@@ -530,7 +545,12 @@
   "topic": "monitor competitor Shopify prices & stock",
   "gated": false,
   "id": "t041",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-11T03:35:44.922643Z",
+  "result": {
+   "proof": "page pages/shopify-competitor-price-stock-monitor.md | monitor Shopify competitor prices stock levels real-time",
+   "url": "github pages/shopify-competitor-price-stock-monitor.md"
+  }
  },
  {
   "type": "publish_page",
@@ -538,7 +558,12 @@
   "topic": "find/verify business emails from domains",
   "gated": false,
   "id": "t042",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-11T03:35:48.201160Z",
+  "result": {
+   "proof": "page pages/enrich-business-contacts-verified-emails-domain.md | enrich business contact data with verified emails and domain intelligence",
+   "url": "github pages/enrich-business-contacts-verified-emails-domain.md"
+  }
  },
  {
   "type": "publish_page",
