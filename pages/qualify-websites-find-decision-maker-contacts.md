@@ -1,10 +1,8 @@
-<!-- keyword: qualify websites and find decision-maker contacts automatically -->
+<!-- keyword: automatically qualify B2B websites and extract decision-maker contact information -->
 # Qualify Websites & Find Decision-Maker Contacts Automatically
 
-Identifying high-potential leads and reaching the right decision-makers is critical for B2B sales success. Manual research wastes hours, and cold outreach without proper qualification drains resources.
+Identifying high-quality leads and connecting with the right decision-makers is essential for B2B sales success. The [Website Lead Qualifier & Contact Finder](https://apify.com/qualifyops/website-lead-qualifier-contact-finder) automates this entire process by analyzing company websites, validating business legitimacy, and extracting verified contact information for key stakeholders.
 
-The [Website Lead Qualifier & Contact Finder](https://apify.com/qualifyops/website-lead-qualifier-contact-finder) automates this entire process. It analyzes target websites to qualify their business relevance, then extracts verified contact information for key decision-makers—CEOs, founders, hiring managers, and procurement leads.
+This actor combines website qualification with intelligent decision-maker detection. It evaluates websites for sales-readiness indicators, verifies business authenticity, and surfaces contact details for executives most likely to influence purchasing decisions. Instead of manual research consuming hours, you get structured lead data instantly.
 
-The actor visits company websites, evaluates business quality signals, and pulls structured contact data. You get a ready-to-use list of qualified prospects with direct contact details, eliminating guesswork from your outreach pipeline.
-
-Perfect for sales teams, recruiters, and business development professionals who need high-confidence leads with verified contacts—no manual digging required.
+Perfect for sales teams building targeted outreach campaigns, the actor streamlines prospecting workflows and ensures you're reaching genuine decision-makers with authority and budget. Focus your sales efforts on qualified leads rather than wasting time on unfit prospects.

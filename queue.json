@@ -584,7 +584,12 @@
   "topic": "find companies hiring right now / hiring intent",
   "gated": false,
   "id": "t044",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-12T03:49:51.162662Z",
+  "result": {
+   "proof": "page pages/detect-hiring-signals-career-pages.md | detect hiring signals from company career pages automatically",
+   "url": "github pages/detect-hiring-signals-career-pages.md"
+  }
  },
  {
   "type": "publish_page",
@@ -592,7 +597,12 @@
   "topic": "track companies with hiring surges",
   "gated": false,
   "id": "t045",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-12T03:49:54.974804Z",
+  "result": {
+   "proof": "page pages/monitor-company-hiring-activity-detect-recruitment-trends.md | monitor company hiring activity and detect recruitment trends",
+   "url": "github pages/monitor-company-hiring-activity-detect-recruitment-trends.md"
+  }
  },
  {
   "type": "publish_page",
@@ -600,7 +610,12 @@
   "topic": "detect which ATS a company uses",
   "gated": false,
   "id": "t046",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-12T03:49:58.468321Z",
+  "result": {
+   "proof": "page pages/programmatically-identify-ats-software-used-by-companies.md | programmatically identify applicant tracking system software used by target companies",
+   "url": "github pages/programmatically-identify-ats-software-used-by-companies.md"
+  }
  },
  {
   "type": "publish_page",
@@ -608,7 +623,12 @@
   "topic": "qualify websites + find decision-maker contacts",
   "gated": false,
   "id": "t047",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-12T03:50:02.014004Z",
+  "result": {
+   "proof": "page pages/qualify-websites-find-decision-maker-contacts.md | automatically qualify B2B websites and extract decision-maker contact information",
+   "url": "github pages/qualify-websites-find-decision-maker-contacts.md"
+  }
  },
  {
   "type": "publish_page",
@@ -616,7 +636,12 @@
   "topic": "monitor competitor Shopify prices & stock",
   "gated": false,
   "id": "t048",
-  "done": false
+  "done": true,
+  "done_at": "2026-07-12T03:50:05.050698Z",
+  "result": {
+   "proof": "page pages/shopify-competitor-price-stock-monitoring.md | automate Shopify price monitoring competitor analysis stock tracking",
+   "url": "github pages/shopify-competitor-price-stock-monitoring.md"
+  }
  },
  {
   "type": "prepare_proof",

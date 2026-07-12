@@ -1167,3 +1167,8 @@
 - `2026-07-11T23:05:53.714669Z` **submit_directory** attempt failed on website-contact-enrichment, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/apilayer-marketplace-website-contact-enrichment.md']
 - `2026-07-11T23:05:55.390660Z` **submit_directory** attempt failed on ats-jobs-scraper, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/apilayer-marketplace-ats-jobs-scraper.md']
 - `2026-07-11T23:05:56.714330Z` **submit_directory** attempt failed on shopify-competitor-price-monitor, rotating  [blocker: [Errno 2] No such file or directory: 'submissions/apilayer-marketplace-shopify-competitor-price-monitor.md']
+- `2026-07-12T03:49:51.162671Z` **publish_page** page pages/detect-hiring-signals-career-pages.md | detect hiring signals from company career pages automatically
+- `2026-07-12T03:49:54.974813Z` **publish_page** page pages/monitor-company-hiring-activity-detect-recruitment-trends.md | monitor company hiring activity and detect recruitment trends
+- `2026-07-12T03:49:58.468330Z` **publish_page** page pages/programmatically-identify-ats-software-used-by-companies.md | programmatically identify applicant tracking system software used by target companies
+- `2026-07-12T03:50:02.014013Z` **publish_page** page pages/qualify-websites-find-decision-maker-contacts.md | automatically qualify B2B websites and extract decision-maker contact information
+- `2026-07-12T03:50:05.050708Z` **publish_page** page pages/shopify-competitor-price-stock-monitoring.md | automate Shopify price monitoring competitor analysis stock tracking
