@@ -650,8 +650,8 @@
   "gated": false,
   "id": "t049",
   "done": false,
-  "attempts": 132,
-  "last_error": "[Errno 2] No such file or directory: 'proof/verify-business-emails-from-domains.md'"
+  "attempts": 133,
+  "last_error": "[Errno 2] No such file or directory: 'proof/find-verify-business-emails-apify.md'"
  },
  {
   "type": "prepare_proof",
@@ -660,8 +660,8 @@
   "gated": false,
   "id": "t050",
   "done": false,
-  "attempts": 132,
-  "last_error": "[Errno 2] No such file or directory: 'proof/scrape-jobs-from-ats-platforms.md'"
+  "attempts": 133,
+  "last_error": "[Errno 2] No such file or directory: 'proof/scrape-greenhouse-lever-ashby-jobs.md'"
  },
  {
   "type": "prepare_proof",
@@ -670,8 +670,8 @@
   "gated": false,
   "id": "t051",
   "done": false,
-  "attempts": 132,
-  "last_error": "[Errno 2] No such file or directory: 'proof/find-companies-hiring-now-ats-signal-finder.md'"
+  "attempts": 133,
+  "last_error": "[Errno 2] No such file or directory: 'proof/find-companies-hiring-now-with-ats-signals.md'"
  },
  {
   "type": "prepare_proof",
@@ -680,7 +680,7 @@
   "gated": false,
   "id": "t052",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'proof/track-companies-hiring-surges.md'"
  },
  {
@@ -690,7 +690,7 @@
   "gated": false,
   "id": "t053",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'proof/detect-company-ats-system.md'"
  },
  {
@@ -700,7 +700,7 @@
   "gated": false,
   "id": "t054",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'proof/qualify-websites-find-decision-maker-contacts.md'"
  },
  {
@@ -710,8 +710,8 @@
   "gated": false,
   "id": "t055",
   "done": false,
-  "attempts": 132,
-  "last_error": "[Errno 2] No such file or directory: 'proof/monitor-shopify-competitor-prices-stock.md'"
+  "attempts": 133,
+  "last_error": "[Errno 2] No such file or directory: 'proof/monitor-competitor-shopify-prices-stock.md'"
  },
  {
   "type": "submit_directory",
@@ -720,7 +720,7 @@
   "gated": true,
   "id": "t056",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/rapidapi-website-contact-enrichment.md'"
  },
  {
@@ -730,7 +730,7 @@
   "gated": true,
   "id": "t057",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/rapidapi-ats-jobs-scraper.md'"
  },
  {
@@ -740,7 +740,7 @@
   "gated": true,
   "id": "t058",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/rapidapi-shopify-competitor-price-monitor.md'"
  },
  {
@@ -750,7 +750,7 @@
   "gated": true,
   "id": "t059",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/mcp-tool-registry-glama-ai-website-contact-enrichment.md'"
  },
  {
@@ -760,7 +760,7 @@
   "gated": true,
   "id": "t060",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/mcp-tool-registry-glama-ai-ats-jobs-scraper.md'"
  },
  {
@@ -770,7 +770,7 @@
   "gated": true,
   "id": "t061",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/mcp-tool-registry-glama-ai-shopify-competitor-price-monitor.md'"
  },
  {
@@ -780,7 +780,7 @@
   "gated": true,
   "id": "t062",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/mcp-registry-smithery-ai-website-contact-enrichment.md'"
  },
  {
@@ -790,7 +790,7 @@
   "gated": true,
   "id": "t063",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/mcp-registry-smithery-ai-ats-jobs-scraper.md'"
  },
  {
@@ -800,7 +800,7 @@
   "gated": true,
   "id": "t064",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/mcp-registry-smithery-ai-shopify-competitor-price-monitor.md'"
  },
  {
@@ -810,7 +810,7 @@
   "gated": true,
   "id": "t065",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/awesome-web-scraping-github-website-contact-enrichment.md'"
  },
  {
@@ -820,7 +820,7 @@
   "gated": true,
   "id": "t066",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/awesome-web-scraping-github-ats-jobs-scraper.md'"
  },
  {
@@ -830,7 +830,7 @@
   "gated": true,
   "id": "t067",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/awesome-web-scraping-github-shopify-competitor-price-monitor.md'"
  },
  {
@@ -840,7 +840,7 @@
   "gated": true,
   "id": "t068",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/apis-guru-website-contact-enrichment.md'"
  },
  {
@@ -850,7 +850,7 @@
   "gated": true,
   "id": "t069",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/apis-guru-ats-jobs-scraper.md'"
  },
  {
@@ -860,7 +860,7 @@
   "gated": true,
   "id": "t070",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/apis-guru-shopify-competitor-price-monitor.md'"
  },
  {
@@ -870,7 +870,7 @@
   "gated": true,
   "id": "t071",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/publicapis-dev-website-contact-enrichment.md'"
  },
  {
@@ -880,7 +880,7 @@
   "gated": true,
   "id": "t072",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/publicapis-dev-ats-jobs-scraper.md'"
  },
  {
@@ -890,7 +890,7 @@
   "gated": true,
   "id": "t073",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/publicapis-dev-shopify-competitor-price-monitor.md'"
  },
  {
@@ -900,7 +900,7 @@
   "gated": true,
   "id": "t074",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/toolify-ai-website-contact-enrichment.md'"
  },
  {
@@ -910,7 +910,7 @@
   "gated": true,
   "id": "t075",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/toolify-ai-ats-jobs-scraper.md'"
  },
  {
@@ -920,7 +920,7 @@
   "gated": true,
   "id": "t076",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/toolify-ai-shopify-competitor-price-monitor.md'"
  },
  {
@@ -930,7 +930,7 @@
   "gated": true,
   "id": "t077",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/futurepedia-website-contact-enrichment.md'"
  },
  {
@@ -940,7 +940,7 @@
   "gated": true,
   "id": "t078",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/futurepedia-ats-jobs-scraper.md'"
  },
  {
@@ -950,7 +950,7 @@
   "gated": true,
   "id": "t079",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/futurepedia-shopify-competitor-price-monitor.md'"
  },
  {
@@ -960,7 +960,7 @@
   "gated": true,
   "id": "t080",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/theresanaiforthat-website-contact-enrichment.md'"
  },
  {
@@ -970,7 +970,7 @@
   "gated": true,
   "id": "t081",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/theresanaiforthat-ats-jobs-scraper.md'"
  },
  {
@@ -980,7 +980,7 @@
   "gated": true,
   "id": "t082",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/theresanaiforthat-shopify-competitor-price-monitor.md'"
  },
  {
@@ -990,7 +990,7 @@
   "gated": true,
   "id": "t083",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/apilayer-marketplace-website-contact-enrichment.md'"
  },
  {
@@ -1000,7 +1000,7 @@
   "gated": true,
   "id": "t084",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/apilayer-marketplace-ats-jobs-scraper.md'"
  },
  {
@@ -1010,7 +1010,7 @@
   "gated": true,
   "id": "t085",
   "done": false,
-  "attempts": 132,
+  "attempts": 133,
   "last_error": "[Errno 2] No such file or directory: 'submissions/apilayer-marketplace-shopify-competitor-price-monitor.md'"
  },
  {
