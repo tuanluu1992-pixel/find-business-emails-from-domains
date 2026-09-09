@@ -19894,3 +19894,40 @@
 {"type": "submit_directory", "proof": "attempt failed on website-contact-enrichment, rotating", "blocker": "[Errno 2] No such file or directory: 'submissions/apilayer-marketplace-website-contact-enrichment.md'", "ts": "2026-09-09T00:08:33.039149Z"}
 {"type": "submit_directory", "proof": "attempt failed on ats-jobs-scraper, rotating", "blocker": "[Errno 2] No such file or directory: 'submissions/apilayer-marketplace-ats-jobs-scraper.md'", "ts": "2026-09-09T00:08:35.493036Z"}
 {"type": "submit_directory", "proof": "attempt failed on shopify-competitor-price-monitor, rotating", "blocker": "[Errno 2] No such file or directory: 'submissions/apilayer-marketplace-shopify-competitor-price-monitor.md'", "ts": "2026-09-09T00:08:37.291242Z"}
+{"type": "prepare_proof", "proof": "attempt failed on website-contact-enrichment, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:06.317715Z"}
+{"type": "prepare_proof", "proof": "attempt failed on ats-jobs-scraper, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:06.556085Z"}
+{"type": "prepare_proof", "proof": "attempt failed on ats-hiring-signal-finder, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:06.758475Z"}
+{"type": "prepare_proof", "proof": "attempt failed on ats-hiring-surge-monitor, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:06.889665Z"}
+{"type": "prepare_proof", "proof": "attempt failed on ats-board-detector, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:07.026094Z"}
+{"type": "prepare_proof", "proof": "attempt failed on website-lead-qualifier-contact-finder, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:07.160854Z"}
+{"type": "prepare_proof", "proof": "attempt failed on shopify-competitor-price-monitor, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:07.394860Z"}
+{"type": "submit_directory", "proof": "attempt failed on website-contact-enrichment, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:07.523984Z"}
+{"type": "submit_directory", "proof": "attempt failed on ats-jobs-scraper, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:07.831521Z"}
+{"type": "submit_directory", "proof": "attempt failed on shopify-competitor-price-monitor, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:07.972345Z"}
+{"type": "submit_directory", "proof": "attempt failed on website-contact-enrichment, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:08.117273Z"}
+{"type": "submit_directory", "proof": "attempt failed on ats-jobs-scraper, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:08.248217Z"}
+{"type": "submit_directory", "proof": "attempt failed on shopify-competitor-price-monitor, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:08.396681Z"}
+{"type": "submit_directory", "proof": "attempt failed on website-contact-enrichment, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:08.546580Z"}
+{"type": "submit_directory", "proof": "attempt failed on ats-jobs-scraper, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:08.675795Z"}
+{"type": "submit_directory", "proof": "attempt failed on shopify-competitor-price-monitor, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:08.806991Z"}
+{"type": "submit_directory", "proof": "attempt failed on website-contact-enrichment, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:08.954311Z"}
+{"type": "submit_directory", "proof": "attempt failed on ats-jobs-scraper, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:09.087251Z"}
+{"type": "submit_directory", "proof": "attempt failed on shopify-competitor-price-monitor, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:09.217596Z"}
+{"type": "submit_directory", "proof": "attempt failed on website-contact-enrichment, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:09.435947Z"}
+{"type": "submit_directory", "proof": "attempt failed on ats-jobs-scraper, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:09.590513Z"}
+{"type": "submit_directory", "proof": "attempt failed on shopify-competitor-price-monitor, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:09.727059Z"}
+{"type": "submit_directory", "proof": "attempt failed on website-contact-enrichment, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:09.861689Z"}
+{"type": "submit_directory", "proof": "attempt failed on ats-jobs-scraper, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:10.026420Z"}
+{"type": "submit_directory", "proof": "attempt failed on shopify-competitor-price-monitor, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:10.173586Z"}
+{"type": "submit_directory", "proof": "attempt failed on website-contact-enrichment, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:10.319207Z"}
+{"type": "submit_directory", "proof": "attempt failed on ats-jobs-scraper, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:10.449910Z"}
+{"type": "submit_directory", "proof": "attempt failed on shopify-competitor-price-monitor, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:10.597712Z"}
+{"type": "submit_directory", "proof": "attempt failed on website-contact-enrichment, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:10.721203Z"}
+{"type": "submit_directory", "proof": "attempt failed on ats-jobs-scraper, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:10.938455Z"}
+{"type": "submit_directory", "proof": "attempt failed on shopify-competitor-price-monitor, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:11.065156Z"}
+{"type": "submit_directory", "proof": "attempt failed on website-contact-enrichment, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:11.225496Z"}
+{"type": "submit_directory", "proof": "attempt failed on ats-jobs-scraper, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:11.386675Z"}
+{"type": "submit_directory", "proof": "attempt failed on shopify-competitor-price-monitor, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:11.608196Z"}
+{"type": "submit_directory", "proof": "attempt failed on website-contact-enrichment, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:11.847114Z"}
+{"type": "submit_directory", "proof": "attempt failed on ats-jobs-scraper, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:11.986672Z"}
+{"type": "submit_directory", "proof": "attempt failed on shopify-competitor-price-monitor, rotating", "blocker": "HTTP Error 400: Bad Request", "ts": "2026-09-09T07:20:12.120780Z"}
